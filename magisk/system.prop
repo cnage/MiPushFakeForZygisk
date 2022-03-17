@@ -1,8 +1,15 @@
 # Basic MagiskHide properties
 
-#MIUI
-ro.miui.ui.version.name=V12
-ro.miui.ui.version.code=10
-ro.miui.version.code_time=1592409600
+ro.product.model=MIX Alpha
+ro.product.brand=Xiaomi
+ro.product.name=draco
+ro.product.device=draco
+ro.product.manufacturer=Xiaomi
+ro.miui.ui.version.name=V9
+ro.miui.ui.version.code=7
+ro.miui.version.code_time=1527550858
 ro.miui.internal.storage=/sdcard/
+ro.product.manufacturer=Xiaomi
+ro.product.brand=Xiaomi
+ro.product.name=Xiaomi
 
